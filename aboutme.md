@@ -1,9 +1,7 @@
-# Aashita
+# Hi, Im Aashita
 
-## Future Web developer
-
-### I am currently a SAIT student learning about Web development. I am learning about the designing aspect of development and also the programming part of it too.
-
-### I want to pursue Web development as my career.
+## I am currently a SAIT student learning about Web development. I am passionate about both design and backend development
 
 ### _I am very keen on meeting new developers, to learn more about the development environment. It will also allow me to improve my skills and to acquire the new ones._
+
+#### My goal is to become a accomplished designer and developer. This portfolio shows my ongoing learning journey in both design and development
